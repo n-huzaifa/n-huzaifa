@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=n-huzaifa&color=f67280&style=flat-square&label=Profile+Stalkers)
+![](https://komarev.com/ghpvc/?username=n-huzaifa&color=f67280&style=flat-square&label=Total+Visitors
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
