@@ -6,18 +6,6 @@
 
 ----
 
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-<img height=25 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">&nbsp;&nbsp;
-
-----
-
 ### 🔭 **Technology Stack**
 
 #### **Languages**:
@@ -65,3 +53,14 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=n-huzaifa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+----
+
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<a href="https://github.com/n-huzaifa"><img height=25 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://gitlab/eptzaifa"><img height=25 src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;&nbsp;</a>
+<a href="mailto:huzaifa.react.dev@gmail.com"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://twitter.com/DevKoala"><img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/noor-ul-islam-huzaifa-67505a201/"><img height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://www.youtube.com/channel/UCeR1HPHRGlTr-BPSTRNS-TA"><img height=25 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">&nbsp;&nbsp;</a>
