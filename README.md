@@ -1,8 +1,8 @@
-### Hi there 👋  ![](https://komarev.com/ghpvc/?username=n-huzaifa&color=f67280&style=flat-square&label=Total+Visitors)
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Student!;A+Helpful+Colleague;Thriving+for+perfection;Working+on+myself;I+am+>+I+was">
 </p>
+
+### Hi there 👋  ![](https://komarev.com/ghpvc/?username=n-huzaifa&color=f67280&style=flat-square&label=Total+Visitors)
 
 ----
 
