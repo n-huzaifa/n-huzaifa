@@ -4,6 +4,8 @@
 
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=n-huzaifa&color=f67280&style=flat-square&label=Total+Visitors)
 
+<img align='right' src="https://media.giphy.com/media/xThuVYIRVVaP3ghJXG/giphy.gif" width="230">
+
 - I am a 19 year old student doing a Bachelors in Computer Science
 - Learning Web Technologies & How the Logical world works
 - Employed as Junior React Developer at EPTeck
@@ -41,6 +43,8 @@
 <img height=25 src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
 </a>
 
+<img align='right' src="https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif" width="230">
+
 #### **Frameworks, Platforms and Libraries**:
 
 <a href="https://reactjs.org/docs/getting-started.html">
@@ -59,6 +63,7 @@
 <img height=25 src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
 </a>
 
+
 #### **DevOps & Cloud Tools**:
 
 <a href="https://git-scm.com/doc">
@@ -70,6 +75,8 @@
 <a href="https://api.slack.com/">
 <img height=25 src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">&nbsp;&nbsp;
 </a>
+
+<img align='right' width="230" src="https://media.giphy.com/media/l3JDLY0bJA5N6TLqM/giphy.gif">
 
 #### **Web Tools & Dev sites**:
 
@@ -108,3 +115,4 @@
 <a href="https://twitter.com/DevKoala"><img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/noor-ul-islam-huzaifa-67505a201/"><img height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://www.youtube.com/channel/UCeR1HPHRGlTr-BPSTRNS-TA"><img height=25 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://dev.to/nhuzaifa"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />&nbsp;&nbsp;</a>
