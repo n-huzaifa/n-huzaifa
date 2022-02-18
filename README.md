@@ -80,7 +80,7 @@
 
 #### **Web Tools & Dev sites**:
 
-<a href="https://stackoverflow.com/">
+<a href="https://stackoverflow.com/users/17309478/huzaifa-cs">
 <img height=25 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">&nbsp;&nbsp;
 </a>
 <a href="https://stackexchange.com/">
