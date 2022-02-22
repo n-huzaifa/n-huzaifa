@@ -50,6 +50,9 @@
 <a href="https://reactjs.org/docs/getting-started.html">
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 </a>
+<a href="https://nextjs.org/">
+<img height=25 src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;&nbsp;
+</a>
 <a href="https://reactrouter.com/docs">
 <img height=25 src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;&nbsp;
 </a>
