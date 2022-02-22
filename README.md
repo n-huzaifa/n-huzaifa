@@ -60,7 +60,7 @@
 <img height=25 src="https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB">&nbsp;&nbsp;
 </a>
 <a href="https://mui.com/">
-<img height=25 src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">&nbsp;&nbsp;
 </a>
 <a href="https://styled-components.com/docs">
 <img height=25 src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
