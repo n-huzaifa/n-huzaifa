@@ -18,12 +18,6 @@
 
 #### **Languages**:
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> 
-<img height=25 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
-<img height=25 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
 <img height=25 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;
 </a>
@@ -41,9 +35,6 @@
 </a>
 <a href="https://docs.python.org/"> 
 <img height=25 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23F7DF1E">&nbsp;&nbsp;
-</a>
-<a href="https://www.markdownguide.org/getting-started/"> 
-<img height=25 src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
 </a>
 
 <img align='right' src="https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif" width="230">
