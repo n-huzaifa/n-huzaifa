@@ -8,9 +8,9 @@
 
 - I am a 19 year old student doing a Bachelors in Computer Science
 - Learning Web Technologies & How the Logical world works
-- Hired as a React Developer at EPTeck
+- Earning Bread through Full Time Freelancing
 - Learning : The ways of life
-- Will Learn : Backend Development
+- Will Learn : DevOps
 
 ---
 
