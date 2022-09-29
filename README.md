@@ -1,16 +1,16 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Student!;A+Helpful+Colleague;Thriving+for+perfection;Working+on+myself;I+am+>+I+was">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Student!;A+Helpful+Colleague;Working+on+a+cloud+service;">
 </p>
 
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=n-huzaifa&color=f67280&style=flat-square&label=Total+Visitors)
 
-<img align='right' src="https://media.giphy.com/media/xThuVYIRVVaP3ghJXG/giphy.gif" width="230">
-
-- I am a 19 year old student doing a Bachelors in Computer Science
+- I am a 19 year old Fullstack developer and a student doing Bachelors in Computer Science
 - Learning Web Technologies & How the Logical world works
 - Earning Bread through Full Time Freelancing
 - Learning : The ways of life
 - Will Learn : DevOps
+
+This here is my tech stack i work in. Every badge is clickable feel free to roam around.
 
 ---
 
@@ -21,37 +21,29 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
 <img height=25 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;
 </a>
-<a href="https://devdocs.io/cpp/"> 
-<img height=25 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/"> 
-<img height=25 src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">&nbsp;&nbsp;
-</a>
 <a href="https://www.typescriptlang.org/docs/"> 
 <img height=25 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
 </a>
-<a href="https://docs.oracle.com/en/java/"> 
-<img height=25 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
-</a>
-<a href="https://docs.python.org/"> 
-<img height=25 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23F7DF1E">&nbsp;&nbsp;
-</a>
-
-<img align='right' src="https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif" width="230">
-
-#### **Frameworks, Platforms and Libraries**:
-
 <a href="https://reactjs.org/docs/getting-started.html">
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 </a>
-<a href="https://nextjs.org/">
-<img height=25 src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;&nbsp;
+<a href="http://expressjs.com/en/starter/installing.html">
+<img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
 </a>
-<a href="https://reactrouter.com/docs">
-<img height=25 src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;&nbsp;
+<a href="https://nodejs.org/en/">
+<img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
 </a>
+
+#### **Visual Design Libraries**:
+
 <a href="https://tailwindcss.com/docs/installation">
 <img height=25 src="https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB">&nbsp;&nbsp;
+</a>
+<a href="https://www.chartjs.org/">
+<img height=25 src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://ant.design/">
+<img height=25 src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white">&nbsp;&nbsp;
 </a>
 <a href="https://mui.com/">
 <img height=25 src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">&nbsp;&nbsp;
@@ -60,22 +52,34 @@
 <img height=25 src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
 </a>
 
+#### **Databases**:
 
-#### **DevOps & Cloud Tools**:
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16">
+<img height=25 src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://www.mongodb.com/docs/manual/introduction/">
+<img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://dev.mysql.com/doc/">
+<img height=25 src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+</a>
 
-<a href="https://git-scm.com/doc">
-<img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+#### **DevOps & Cloud Hosting**:
+
+<a href="https://www.digitalocean.com/">
+<img height=25 src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">&nbsp;&nbsp;
+</a>
+<a href="https://vercel.com/">
+<img height=25 src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;&nbsp;
 </a>
 <a href="https://docs.netlify.com/">
 <img height=25 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
 </a>
-<a href="https://api.slack.com/">
-<img height=25 src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">&nbsp;&nbsp;
+<a href="https://github.com/features/actions">
+<img height=25 src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">&nbsp;&nbsp;
 </a>
 
-<img align='right' width="230" src="https://media.giphy.com/media/l3JDLY0bJA5N6TLqM/giphy.gif">
-
-#### **Web Tools & Dev sites**:
+#### **Dev sites & Articles **:
 
 <a href="https://stackoverflow.com/users/17309478/huzaifa-cs">
 <img height=25 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">&nbsp;&nbsp;
@@ -83,14 +87,11 @@
 <a href="https://stackexchange.com/">
 <img height=25 src="https://img.shields.io/badge/Stack_Exchange-2d5892?style=for-the-badge&logo=stack-exchange&logoColor=white">&nbsp;&nbsp;
 </a>
-
-#### **Game Development**:
-
-<a href="https://play.google.com/store/apps/developer?id=Dev_Koala">
-<img height=25 src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">&nbsp;&nbsp;
+<a href="https://dev.to/nhuzaifa">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
-<a href="https://unity.com/">
-<img height=25 src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">&nbsp;&nbsp;
+<a href="https://medium.com/@noorhuzaifa11">
+<img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 ## 📈 My Github Stats
@@ -112,4 +113,3 @@
 <a href="https://twitter.com/DevKoala"><img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/noor-ul-islam-huzaifa-67505a201/"><img height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://www.youtube.com/channel/UCeR1HPHRGlTr-BPSTRNS-TA"><img height=25 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">&nbsp;&nbsp;</a>
-<a href="https://dev.to/nhuzaifa"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />&nbsp;&nbsp;</a>
