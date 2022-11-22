@@ -6,11 +6,7 @@
 
 - I am a 19 year old Fullstack developer and a student doing Bachelors in Computer Science
 - Learning Web Technologies & How the Logical world works
-- Earning Bread through Full Time Freelancing
-- Learning : The ways of life
-- Will Learn : DevOps
-
-This here is my tech stack i work in. Every badge is clickable feel free to roam around.
+- Field of focus: Front-End Development
 
 ---
 
@@ -79,7 +75,7 @@ This here is my tech stack i work in. Every badge is clickable feel free to roam
 <img height=25 src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">&nbsp;&nbsp;
 </a>
 
-#### **Dev sites & Articles **:
+#### **Dev sites & Articles**:
 
 <a href="https://stackoverflow.com/users/17309478/huzaifa-cs">
 <img height=25 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">&nbsp;&nbsp;
@@ -109,7 +105,7 @@ This here is my tech stack i work in. Every badge is clickable feel free to roam
 
 <a href="https://github.com/n-huzaifa"><img height=25 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://gitlab/ept-huzaifa"><img height=25 src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;&nbsp;</a>
-<a href="mailto:huzaifa.react.dev@gmail.com"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;&nbsp;</a>
-<a href="https://twitter.com/DevKoala"><img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">&nbsp;&nbsp;</a>
+<a href="mailto:contact.noorhuzaifa@gmail.com"><img height=25 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://twitter.com/Diple_me"><img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/noor-ul-islam-huzaifa-67505a201/"><img height=25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;</a>
-<a href="https://www.youtube.com/channel/UCeR1HPHRGlTr-BPSTRNS-TA"><img height=25 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">&nbsp;&nbsp;</a>
+<a href="https://www.youtube.com/@noorulislamhuzaifa"><img height=25 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">&nbsp;&nbsp;</a>
