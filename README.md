@@ -4,7 +4,7 @@
 
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=n-huzaifa&color=f67280&style=flat-square&label=Total+Visitors)
 
-- I am a 19 year old Fullstack developer and a student doing Bachelors in Computer Science
+- I am a MERN stack developer and a student doing Bachelors in Computer Science
 - Learning Web Technologies & How the Logical world works
 - Field of focus: Front-End Development
 
