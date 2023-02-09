@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Student!;A+Helpful+Colleague;Working+on+a+cloud+service;">
-</p>
-
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=n-huzaifa&color=f67280&style=flat-square&label=Total+Visitors)
 
 - I am a MERN stack developer and a student doing Bachelors in Computer Science
