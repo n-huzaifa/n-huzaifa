@@ -2,7 +2,7 @@
 
 - I am a MERN stack developer and a student doing Bachelors in Computer Science
 - Learning Web Technologies & How the Logical world works
-- Field of focus: Front-End Development
+- Field of focus: The Complex World of Javascript
 
 ---
 
