@@ -13,9 +13,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
 <img height=25 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;
 </a>
-<a href="https://www.typescriptlang.org/docs/"> 
-<img height=25 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
-</a>
 <a href="https://reactjs.org/docs/getting-started.html">
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 </a>
